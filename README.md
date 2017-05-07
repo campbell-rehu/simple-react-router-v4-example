@@ -1,6 +1,6 @@
 # React Router v4 Routing Example Application
 
-![screenshot](./img/simple-react-router-app.png)
+![screenshot](./img/simple-react-router-example.png)
 
 ## Introduction
 
