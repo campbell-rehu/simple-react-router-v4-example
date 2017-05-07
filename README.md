@@ -1,5 +1,7 @@
 # React Router v4 Routing Example Application
 
+![screenshot](./img/simple-react-router-app.png)
+
 ## Introduction
 
 This app was built using React and React Router v4. It fetches posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) and displays them in a simple Master/Detail pattern. This app was created because previous examples using React Router v4 have used the router in a single place on the page. The challenge was to see whether a master list of links could change the display within a separate component whilst keeping the routing intact.
